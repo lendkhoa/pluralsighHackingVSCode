@@ -1,24 +1,24 @@
 {
-    "name": "hello-world",
-    "displayName": "Hello-world",
-    "description": "Simple extension that says hello",
+    "name": "helloWorld",
+    "displayName": "helloWorld",
+    "description": "first vscode extension",
     "version": "0.0.1",
     "publisher": "y",
     "engines": {
-        "vscode": "^1.16.0"
+        "vscode": "^1.17.0"
     },
     "categories": [
         "Other"
     ],
     "activationEvents": [
-        "onCommand:extension.sayHello"
+        "onCommand:extension.calc"
     ],
     "main": "./extension",
     "contributes": {
         "commands": [
             {
-                "command": "extension.sayHello",
-                "title": "Hello World"
+                "command": "extension.calc",
+                "title": "calc"
             }
         ]
     },

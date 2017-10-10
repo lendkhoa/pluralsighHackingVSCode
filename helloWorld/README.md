@@ -1,6 +1,6 @@
-# hello-world README
+# helloWorld README
 
-This is the README for your extension "hello-world". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "helloWorld". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 
